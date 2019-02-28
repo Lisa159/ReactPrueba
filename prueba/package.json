@@ -2,7 +2,7 @@
   "name": "prueba",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://lisa159.github.io/ReactPrueba/"
+  "homepage": "http://lisa159.github.io/ReactPrueba/",
   "dependencies": {
     "react": "^16.8.3",
     "react-dom": "^16.8.3",
